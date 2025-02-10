@@ -1,0 +1,8 @@
+{
+    "dbConfig": {
+        "host": "localhost",
+        "user": "user",
+        "password": "password",
+        "database": "quiz_app_db"
+    }
+}
